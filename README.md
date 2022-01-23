@@ -1,6 +1,6 @@
 # To do List 📋
 
-App Lembretes e Tarefas com Kotlin 
+App de Lembretes e Tarefas com Kotlin 
 
 ## Telas do App 
 
